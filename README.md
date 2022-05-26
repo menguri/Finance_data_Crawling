@@ -35,5 +35,28 @@ chromedriver 로 크롤링을 하기에, chromedriver와 사용자가 쓰고 있
 
 ## [실행 파일 만드는 방법]<br>
 
+(1) 초기 실행 파일 만들기 <br>
+![image](https://user-images.githubusercontent.com/58064919/170482360-09f0bdd4-1834-4092-8697-dbb873f96628.png)
+
+(2) 생성된 gui.spec 파일 고쳐주기 (기존에 있던 spec 파일은 지워주세요.)<br>
+![image](https://user-images.githubusercontent.com/58064919/170482510-d98f476a-02fb-45b5-8317-8d300168469e.png)
+
+(3) 마지막으로 합쳐주기 <br>
 ![image](https://user-images.githubusercontent.com/58064919/170481391-44dce8b7-be37-40bf-8566-1e51f9e17145.png)
+<br>
+<br>
+
+## [실행 이미지]<br>
+
+(1) <br>
+![image](https://user-images.githubusercontent.com/58064919/170482943-bc0f4905-cff3-4534-844d-db562dc7cc4d.png)
+<br>
+
+
+(2) <br>
+![image](https://user-images.githubusercontent.com/58064919/170482747-1023a44c-a060-448b-a6a9-ef8c717735ec.png)
+<br>
+
+(3) <br>
+![image](https://user-images.githubusercontent.com/58064919/170482821-4722f9bc-367a-4282-be89-17b0a4c52446.png)
 
