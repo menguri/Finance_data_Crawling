@@ -48,7 +48,7 @@ chromedriver 로 크롤링을 하기에, chromedriver와 사용자가 쓰고 있
 
 ## [실행 이미지]<br>
 
-(1) <br>
+(1) 원하는 기업, 경로, 파일 유형, 기간을 설정해서 Continue를 누르면 진행됩니다.<br>
 ![image](https://user-images.githubusercontent.com/58064919/170482943-bc0f4905-cff3-4534-844d-db562dc7cc4d.png)
 <br>
 
